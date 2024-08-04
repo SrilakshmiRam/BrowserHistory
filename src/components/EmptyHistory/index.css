@@ -1,0 +1,13 @@
+.emptyhistory-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.history-title{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: bold;
+    color: #64748b;
+}
